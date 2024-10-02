@@ -12,9 +12,8 @@ In this project, we will create a microfrontend application that will be used to
 - Deep dive into Runtime Integration
 - Deep dive into Module Federation with Webpack
 - How to create a microfrontend application using Webpack?
+  - Understand what webpack, webpack-dev-server and html-webpack-plugin do and see it in action
 - How to create a microfrontend application using Module Federation?
-- How to create a microfrontend application using Single SPA?
-- How to create a microfrontend application using qiankun?
 
 ### Project Structure
 
