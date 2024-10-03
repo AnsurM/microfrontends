@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, we will create a microfrontend application that will be used to display a list of products and a cart. No APIs are used, and all data is generated using faker.
+In this project, we created a microfrontend application that displays a list of products and a cart. No APIs are used, and all data is generated using faker.
 
 ### Learnings
 
